@@ -1,0 +1,15 @@
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\bin\Release\net5.0\SQLHmwkGen.exe
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\bin\Release\net5.0\SQLHmwkGen.deps.json
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\bin\Release\net5.0\SQLHmwkGen.runtimeconfig.json
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\bin\Release\net5.0\SQLHmwkGen.runtimeconfig.dev.json
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\bin\Release\net5.0\SQLHmwkGen.dll
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\bin\Release\net5.0\ref\SQLHmwkGen.dll
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\bin\Release\net5.0\SQLHmwkGen.pdb
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\obj\Release\net5.0\SQLHmwkGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\obj\Release\net5.0\SQLHmwkGen.AssemblyInfoInputs.cache
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\obj\Release\net5.0\SQLHmwkGen.AssemblyInfo.cs
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\obj\Release\net5.0\SQLHmwkGen.csproj.CoreCompileInputs.cache
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\obj\Release\net5.0\SQLHmwkGen.dll
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\obj\Release\net5.0\ref\SQLHmwkGen.dll
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\obj\Release\net5.0\SQLHmwkGen.pdb
+C:\Users\nkata\Documents\School_Files\Spring_2021\SQL\SQLHmwkGen\obj\Release\net5.0\SQLHmwkGen.genruntimeconfig.cache
